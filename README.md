@@ -1,6 +1,6 @@
 # News_highlight
 
-#### By **James Mutahi**
+## By **James Mutahi**
 
 ## Description
 
@@ -21,13 +21,13 @@ This is an online news platform that provides a list of global news sources and 
 * Activate a virtual environment on terminal:
 ```source virtual/bin/activate```
 * Install all the requirements found in requirements file.
-* Fill the start.sh file with your 'api key' from the https://news.org
-* On your terminal run 
+* Fill the start.sh file with your 'api key' from the <https://news.org>
+* On your terminal run
 ```chmod a+x start.py```
 * On your terminal run
  ```./start.py```
 * Access the live site using the local host provided
-* Or access the live website by clicking on this url https://jamesmutahi-news-highight.herokuapp.com/
+* Or access the live website by clicking on this url <https://jamesmutahi-news-highight.herokuapp.com/>
 
 ![NEWS HIGHLIGHT](https://github.com/JamesMutahi/News-Highlight/blob/master/app/static/images/sources.png)
 ![NEWS HIGHLIGHT](https://github.com/JamesMutahi/News-Highlight/blob/master/app/static/images/articles.png)
