@@ -29,6 +29,9 @@ This is an online news platform that provides a list of global news sources and 
 * Access the live site using the local host provided
 * Or access the live website by clicking on this url https://jamesmutahi-news-highight.herokuapp.com/
 
+![NEWS HIGHLIGHT](https://github.com/JamesMutahi/News-Highlight/blob/master/app/static/images/sources.png)
+![NEWS HIGHLIGHT](https://github.com/JamesMutahi/News-Highlight/blob/master/app/static/images/articles.png)
+
 ## Known Bugs
 
 No Bugs
