@@ -11,8 +11,8 @@
                         </div>
                         <ul class="list-group list-group-flush">
                             {% for source in sources %}
-                            <li class="list-group-item "><a class="text-warning" href="/source/{{source.id}}">{{ source.name.upper() }}</a></li>
-                            {% endfor %}
+                            <a style="text-decoration: none;" class="text-warning" href="/source/{{source.id}}">
+                                <li class="list-group-item ">{{ source.name.upper() }} {% endfor %}
                         </ul>
                     </div>
                 </nav>
